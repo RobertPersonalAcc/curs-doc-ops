@@ -6,9 +6,38 @@
 Welcome to Curs Doc as Code's documentation!
 ============================================
 
+**Picioc Robert**
+
+
+*DevOps Engineer hopefully*
+===========================
+
+:Limbaje de programare preferate:
+   -Python
+
+
+:Hobiuri:
+   #. Traveling
+   #. Baschet
+   #. Jocuri pe consola
+
+:Gen de filme preferate:
+   * Aventura
+   * SF
+   * Actiune
+
+.. code-block:: bash 
+   :linenos:
+
+   cd home
+   cd build docs
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+.. toctree::
+   :caption: O incercare de pagina test
 
 
 
